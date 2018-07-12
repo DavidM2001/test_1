@@ -1,0 +1,25 @@
+div { color:#00000 ; }
+a13 { color:#FF0000 ; }
+a12 { color:#0000A0 ; }
+a11 { color:#008000 ; }
+a10 { color:#FF0000 ; }
+a4 { color:#FFC0CB ; }
+a5 { color:#800080 ; }
+a6 { color:#347C2C ; }
+a7 { color:#00FFFF ; }
+a8 { color:#FF4500 ; }
+a9 { color:#FF9933 ; }
+a1 { color:#B2C248 ; }
+a2 { color:#5848C2 ; }
+a3 { color:#5FFB17 ; }
+.completed-todo { text-decoration: line-through }
+a1 { padding: 1px ; }
+a2 { padding: 10px ; }
+a3 { padding: 20px ; }
+img { 
+    height: 150px ;
+    width: 150px ;
+    display: block ;
+    margin-left: auto ; 
+    margin-right: auto ;
+   }
